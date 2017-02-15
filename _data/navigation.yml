@@ -1,0 +1,53 @@
+#
+#   Navigation to the left › side: left
+#
+- title: Start
+  url: "/"
+  side: left
+
+# - title: "Dropdown Menu"
+#   url: "#"
+#   side: left
+#   dropdown:
+#   - title: "Dropdown Menu 1"
+#     url: "#"
+#   - title: "Dropdown Menu 2"
+#     url: "#"
+#   - title: "Dropdown Menu 3"
+#     url: "#"
+
+- title: Blog 
+  url: "/blog/"
+  side: left
+  # dropdown:
+  # - title: "Blog Archive"
+  #   url: "/blog/archive/"
+
+
+- title: Dashboard
+  url: "http://52.166.9.249:3000/dashboard/"
+  side: left
+
+
+- title: API
+  url: "TODO Insert Link to Swagger API Docu"
+  side: left
+  # dropdown:
+  # - title: "Blog Archive"
+
+
+  
+#
+#   Navigation to the right › side: right
+# #
+# - title: "Info"
+#   url: "/info/"
+#   side: right
+
+# - title: "Search"
+#   url: "/search/"
+#   side: right
+
+# - title: "Contact"
+#   url: "/contact/"
+#   side: right
