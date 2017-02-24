@@ -30,7 +30,7 @@
 
 
 - title: API
-  url: "TODO Insert Link to Swagger API Docu"
+  url: "http://dexapi.westeurope.cloudapp.azure.com:8080/docs"
   side: left
   # dropdown:
   # - title: "Blog Archive"
